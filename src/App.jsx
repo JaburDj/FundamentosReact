@@ -9,7 +9,7 @@ function App() {
       />
       <Post
         author="JaburDJ"
-        content="um novo progamador"
+        content="um velho progamador"
       
       />
 
