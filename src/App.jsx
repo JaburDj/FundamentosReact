@@ -8,7 +8,7 @@ function App() {
         content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui vitae illo natus rem veritatis rerum laboriosam ullam debitis laborum, molestias placeat in aliquid commodi? Consectetur iure fugiat non ea quae!"
       />
       <Post
-        author="Garcia"
+        author="JaburDJ"
         content="um novo progamador"
       
       />
